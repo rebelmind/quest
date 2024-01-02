@@ -52,7 +52,7 @@ class Data {
             "links": ["3", "3_1", "2_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/forest.jfif"
         },
         "2_1": {
             "text": [
@@ -66,7 +66,7 @@ class Data {
             "links": ["4", "4_1", "2_3"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/mountains.jfif"
         },
         "2_2": {
             "text": [
@@ -80,7 +80,7 @@ class Data {
             "links": ["5", "5_1", "2_3"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/scout.jfif"
         },
         "3": {
             "text": [
@@ -94,7 +94,7 @@ class Data {
             "links": ["5", "5_1", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/heard.jfif"
         },
         "3_1": {
             "text": [
@@ -108,7 +108,7 @@ class Data {
             "links": ["6", "6_1", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/changed_paths.jfif"
         },
         "4": {
             "text": [
@@ -122,7 +122,7 @@ class Data {
             "links": ["7", "7_1", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/temple.jfif"
         },
         "4_1": {
             "text": [
@@ -136,7 +136,7 @@ class Data {
             "links": ["8", "8_1", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/maze.jfif"
         },
         "5": {
             "text": [
@@ -150,7 +150,7 @@ class Data {
             "links": ["9", "9_1", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/wolves.jfif"
         },
         "5_1": {
             "text": [
@@ -164,7 +164,7 @@ class Data {
             "links": ["10", "10_1", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/light.jfif"
         },
         "6": {
             "text": [
@@ -176,7 +176,7 @@ class Data {
             "links": ["1"],
             "gameover": true,
             "status" : 2,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/explored.jfif"
         },
         "6_1": {
             "text": [
@@ -188,7 +188,7 @@ class Data {
             "links": ["23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/unsuccess.jfif"
         },
         "7": {
             "text": [
@@ -202,7 +202,7 @@ class Data {
             "links": ["11", "11_1", "8"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/in_tample.jfif"
         },
         "7_1": {
             "text": [
@@ -216,7 +216,7 @@ class Data {
             "links": ["12", "12_1", "8"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/secret_exit.jfif"
         },
         "8": {
             "text": [
@@ -227,10 +227,10 @@ class Data {
                 "Пройти мимо, не обращая внимания",
                 "Изучить символы на стенах"
             ],
-            "links": ["13", "13_1", "23"],
+            "links": ["23", "23", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/strange.jfif"
         },
         "8_1": {
             "text": [
@@ -244,7 +244,7 @@ class Data {
             "links": ["23", "23", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/ended.jfif"
         },
         "9": {
             "text": [
@@ -258,7 +258,7 @@ class Data {
             "links": ["15", "23", "9_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/wolves_aid.jfif"
         },
         "9_1": {
             "text": [
@@ -270,7 +270,7 @@ class Data {
             "links": ["23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/running_fromWolvs.jfif"
         },
         "10": {
             "text": [
@@ -281,10 +281,10 @@ class Data {
                 "Остаться на месте и наблюдать",
                 "Поднести руку к свету"
             ],
-            "links": ["23", "16_1", "10_2"],
+            "links": ["23", "23", "10_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/fountain_magic.jfif"
         },
         "10_1": {
             "text": [
@@ -298,7 +298,7 @@ class Data {
             "links": ["17", "17_1", "10_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/ritual.jfif"
         },
         "15": {
             "text": [
@@ -312,7 +312,7 @@ class Data {
             "links": ["18", "23", "23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/wolves_cave.jfif"
         },
         "18": {
             "text": [
@@ -324,7 +324,7 @@ class Data {
             "links": ["1"],
             "gameover": true,
             "status" : 2,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/magic_portal.jfif"
         },
         "11": {
             "text": [
@@ -338,7 +338,7 @@ class Data {
             "links": ["19", "19_1", "11_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/negotiate.jfif"
             
         },
         "11_1": {
@@ -351,7 +351,7 @@ class Data {
             "links": ["23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/attack.jfif"
         },
         "11_2": {
             "text": [
@@ -365,7 +365,7 @@ class Data {
             "links": ["20", "20_1", "11_3"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/paths_mountain.jfif"
         },
         "11_3": {
             "text": [
@@ -379,7 +379,7 @@ class Data {
             "links": ["21", "21_1", "11_4"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/interesting_facts.jfif"
         },
         "11_4": {
             "text": [
@@ -391,7 +391,7 @@ class Data {
             "links": ["1"],
             "gameover": true,
             "status" : 2,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/continue_journey.jfif"
         },
         "12": {
             "text": [
@@ -405,7 +405,7 @@ class Data {
             "links": ["21", "21_1", "12_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/forgoten_lands.jfif"
         },
         "12_1": {
             "text": [
@@ -419,7 +419,7 @@ class Data {
             "links": ["7", "7_1", "12_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/tamplate_backdoor.jfif"
         },
         "12_2": {
             "text": [
@@ -433,7 +433,7 @@ class Data {
             "links": ["12_3", "12_3", "12_3"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/old_artefacts.jfif"
         },
         "12_3": {
             "text": [
@@ -447,7 +447,7 @@ class Data {
             "links": ["12_4", "12_1", "12_4"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/folow.jfif"
         },
         "12_4": {
             "text": [
@@ -459,7 +459,7 @@ class Data {
             "links": ["1"],
             "gameover": true,
             "status" : 2,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/searchArtefacts.jfif"
         },
         "17": {
             "text": [
@@ -473,7 +473,7 @@ class Data {
             "links": ["23", "23", "17_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/join_ritual.jfif"
         },
         "17_1": {
             "text": [
@@ -487,7 +487,7 @@ class Data {
             "links": ["23", "23", "17_2"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/toWatch_ritual.jfif"
         },
         "17_2": {
             "text": [
@@ -500,7 +500,7 @@ class Data {
             "links": ["23"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/interrupt_ritual.jfif"
         },
         "2_3": {
             "text": [
@@ -514,7 +514,7 @@ class Data {
             "links": ["25", "25_1", "2_4"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/camp.jfif"
         },
         "2_4": {
             "text": [
@@ -528,7 +528,7 @@ class Data {
             "links": ["26", "26_1", "2_5"],
             "gameover": false,
             "status" : 1,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/strange_figure.jfif"
         },
         "23": {
             "text": [
@@ -540,7 +540,7 @@ class Data {
             "links": ["1"],
             "gameover": true,
             "status" : 0,
-            "image": "assets/img/main.jfif"
+            "image": "assets/img/you_lose.jfif"
         },
 
     };
